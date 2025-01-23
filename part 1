@@ -1,0 +1,5 @@
+def SurfaceArea(r):
+    return 4*3.13*r*r
+
+result = SurfaceArea(12)
+print("the surface area of the sphere is", result)
